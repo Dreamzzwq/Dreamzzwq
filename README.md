@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @Dreamzzwq
-- 👀 I am interested in programming
-- 🌱 I'm currently learning Php and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Dreamzzwq/Dreamzzwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Screenshot 2024-11-03 031322](https://github.com/user-attachments/assets/c76da0fe-2229-4b0c-899f-276dece7aa1a)
