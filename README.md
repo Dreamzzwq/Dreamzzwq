@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky Ibrahim Nasrullah</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
-<div class="tenor-gif-embed" data-postid="5241959545903110447" data-share-method="host" data-aspect-ratio="1.12245" data-width="100%"><a href="https://tenor.com/view/hello-hello-wave-waving-wave-anime-wave-gif-5241959545903110447">Hello Hello Wave Sticker</a>from <a href="https://tenor.com/search/hello-stickers">Hello Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamzzwq&label=Profile%20views&color=0e75b6&style=flat" alt="dreamzzwq" /> </p>
 
