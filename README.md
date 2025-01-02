@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizky Ibrahim Nasrullah</h1>
 <h3 align="center">A passionate Backend developer from Indonesia</h3>
-<img align="right" alt="hi" width="400" src="![0102(1)](https://github.com/user-attachments/assets/d5378a51-cc18-491c-9a62-216b642cfe66)>
+<img align="right" alt="hi" width="400" src="https://github.com/user-attachments/assets/d5378a51-cc18-491c-9a62-216b642cfe66>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamzzwq&label=Profile%20views&color=0e75b6&style=flat" alt="dreamzzwq" /> </p>
